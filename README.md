@@ -21,6 +21,7 @@ DataSet
 ---------------------
 The C2Seg datasets can be downloaded from our following paper:
 
+Danfeng Hong, Bing Zhang, Hao Li, Yuxuan Li, Jing Yao, Chenyu Li, Martin Werner, Jocelyn Chanussot, Alexander Zipf, Xiao Xiang Zhu. Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks. Remote Sensing of Environment, 2023, 299: 113856.
 
 https://github.com/danfenghong/RSE_Cross-city
 
