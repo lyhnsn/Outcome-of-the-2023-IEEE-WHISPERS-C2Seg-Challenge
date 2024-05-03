@@ -19,11 +19,10 @@ Yuheng Liu, Ye Wang, Yifan Zhang, Shaohui Mei, Jiaqi Zou, Zhuohong Li, Fangxiao 
 
 DataSet
 ---------------------
-The C2Seg datasets can be downloaded from the following links:
+The C2Seg datasets can be downloaded from our following paper:
 
-Baiduyun: https://pan.baidu.com/s/1WfQ-gWTm2TNXzW-1XEijOg?pwd=ag5k   (access code: ag5k)
 
-Google drive: https://drive.google.com/drive/folders/1S0nfxOwcyv3rMb7ibNA9tXW981vJhiin?usp=drive_link
+https://github.com/danfenghong/RSE_Cross-city
 
 Licensing
 ---------
